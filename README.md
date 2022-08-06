@@ -1,6 +1,5 @@
-# competitive_programming
-detailed solutions of all programming challenges that I went through, from leetcode.com & other platforms.
+# learning python - 
 
-important sites for solutions :
-https://www.youtube.com/c/NeetCode/featured
+learn python - full course for beginners :
+https://www.youtube.com/watch?v=rfscVS0vtbw&t=6231s
 
